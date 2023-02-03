@@ -1,4 +1,4 @@
-# Bayesian Network Learning Using Digital Annealer
+# Bayesian Network Structure Learning using Annealing Processor
 
 Please use these codes for reproducing experiments.
 
