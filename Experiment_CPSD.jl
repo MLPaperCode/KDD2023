@@ -1,5 +1,4 @@
 directory = "./" # directory
-directory = "C:/Users/shiku/Work/Paper/AISTATS2023_DA/" # directory
 data = "pathfinder" # dataset
 N = 1000 # number of instances
 m = 3 # maximum size of parent set
