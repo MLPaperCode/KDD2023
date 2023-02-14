@@ -1,5 +1,5 @@
 directory = "./" # directory
-data = "pathfinder" # dataset
+data = "alarm" # dataset
 N = 1000 # number of instances
 m = 3 # maximum size of parent set
 
